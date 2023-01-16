@@ -10,15 +10,21 @@ Code should validate for each input and once all prompts are answered, the passw
 
 ## Usage
 Application appearance:
+
 ![alt text](images/screenshot_1.png)
 
+
 Example of a prompt:
+
 ![alt text](images/screenshot_2.png)
 
 Example of an alert when selection criteria are not met:
+
 ![alt text](images/screenshot_3.png)
 
+
 Generated password:
+
 ![alt text](images/screenshot_4.png)
 
 ## Contact Details
